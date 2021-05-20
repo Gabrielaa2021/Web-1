@@ -1,2 +1,2 @@
 # Web-1
-Descrição
+Onde coloco o que copiei da aula, exemplos, atividades que fiz
